@@ -1,6 +1,6 @@
 [sharp](https://sharp.pixelplumbing.com/) Experiment
 
-This is just a simple Node.js API endpoint using express to try out the image resizing feature of sharp and uploading it to an S3 compatible bucket
+This is just a simple Node.js API endpoint using Fastify to try out the image resizing feature of sharp and uploading it to an S3 compatible bucket
 
 # Installation
 
