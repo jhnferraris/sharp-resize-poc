@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "aws-sdk": "^2.666.0",
+    "aws-sdk": "^2.814.0",
     "dotenv": "^8.2.0",
     "fastify": "^2.14.0",
     "fastify-file-upload": "^2.0.1",
